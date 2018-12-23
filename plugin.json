@@ -1,0 +1,11 @@
+{
+	"name": "Timeago",
+	"version": "1.1",
+	"description": "Converts timestamps to a relative format.",
+	"demo": "http://koken.me",
+	"author": {
+		"name": "Koken",
+		"link": "https://store.koken.me/authors/koken"
+	},
+	"koken_version_required": "0.10.0"
+}
